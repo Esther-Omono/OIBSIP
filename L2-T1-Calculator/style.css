@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #4d8bc8;
+}
+
+.container {
+  position: relative;
+  max-width: 300px;
+  width: 100%;
+  padding: 20px 20px;
+  border-radius: 12px;
+  background: #ebf5ff;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
+}
+
+.display {
+  height: 80px;
+  width: 100%;
+  outline: none;
+  border: none;
+  text-align: right;
+  margin-bottom: 15px;
+  font-size: 25px;
+  color: #224265;
+  background-color: #cbe5fe;
+  border-radius: 12px;
+  pointer-events: none;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+
+.buttons button {
+  border-radius: 10px;
+  padding: 0.9rem;
+  border: none;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.buttons button:active {
+  transform: scale(0.99);
+}
+
+.buttons .operator {
+  background-color: #a3d0fa;
+  color: #4d8bc8;
+}
+
+.buttons .digits {
+  background-color: #cbe5fe;
+  color: #224265;
+}
+
+.buttons .operator:hover,
+.buttons .digits:hover {
+  background-color: #4d8bc8;
+  color: #cbe7fa;
+}
+
+.buttons .is-enter {
+  background-color: #4d8bc8;
+  color: #cbe7fa;
+}
+
+.buttons .is-enter:hover {
+  background-color: #a3d0fa;
+  color: #4d8bc8;
+}
