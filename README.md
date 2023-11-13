@@ -12,3 +12,10 @@ A display screen shows the user's inputs and calculation results.
 
 #### 🔗 Link
 * [Live Demo Link](https://oibsip-orpin.vercel.app/)
+
+### L2-T3-Tribute Page
+This is the second Level 2 task.
+It is a tribute page created using HTML for structure and CSS for styling.
+
+#### 🔗 Link
+* [Live Demo Link](https://oibsip2.vercel.app/)
