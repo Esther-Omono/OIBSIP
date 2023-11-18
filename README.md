@@ -27,4 +27,4 @@ This project makes use of the localStorage property that allows JavaScript sites
 This means that the data stored from our to-do app persists even after the user closes the browser or restarts the computer.
 
 #### 🔗 Link
-* [Live Demo Link](https://oibsip2.vercel.app/)
+* [Live Demo Link](https://todo-web-app-esther-omono.vercel.app/)
