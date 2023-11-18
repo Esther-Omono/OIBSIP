@@ -16,6 +16,7 @@ A display screen shows the user's inputs and calculation results.
 ### L2-T2-Tribute-Page
 This is the second Level 2 task.
 It is a tribute page created using HTML for structure and CSS for styling.
+It features a short tribute to Paul Walker which consists of a summary of his early life, acting career, legacy in the Fast and Furious franchise, his philanthropy and humanitarian efforts, etc.
 
 #### 🔗 Link
 * [Live Demo Link](https://tribute-page-esther-omono.vercel.app/)
