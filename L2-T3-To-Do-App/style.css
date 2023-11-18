@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(197, 212, 248);
+}
+
+#app {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 0 15px;
+}
+
+h2 {
+    color: #333;
+}
+
+#taskInput {
+    width: 70%;
+    padding: 10px;
+    margin-right: 8px;
+    border: none;
+    border-radius: 10px;
+}
+
+#taskInput::placeholder {
+    font-size: 1rem;
+}
+
+ul {
+    list-style-type: none;
+    display: grid;
+    gap: 1.5em;
+    margin-left: -3rem;
+}
+
+li {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    border: none;
+    padding: .6em;
+    border-radius: 10px;
+}
+
+li .task-group {
+    display: flex;
+    align-items: center;
+    gap: .5em;
+}
+
+.task-group span {
+    margin-right: 50px;
+}
+
+.checkbox {
+    flex-shrink: 0;
+    border-radius: 0.2rem;
+    width: 2em;
+    height: 2em;
+}
+
+button {
+    cursor: pointer;
+    margin: 0 0.5rem;
+    padding: 8px 20px;
+    border-radius: 5px;
+    color: #fff;
+    border: none;
+    font-weight: 600;
+}
+
+button.add,
+button.edit {
+    background-color: #0075ff;
+}
+
+button.delete {
+    background-color: #ff5252;
+}
+
+
+.completed-tasks {
+    margin-top: 20px;
+}
+
+li.completed {
+    background-color: #d6def7;
+}
+
