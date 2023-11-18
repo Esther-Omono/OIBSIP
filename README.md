@@ -18,7 +18,7 @@ This is the second Level 2 task.
 It is a tribute page created using HTML for structure and CSS for styling.
 
 #### 🔗 Link
-* [Live Demo Link](https://oibsip2.vercel.app/)
+* [Live Demo Link](https://tribute-page-esther-omono.vercel.app/)
 
 ### L2-T3-To-Do-App
 This is the third Level 2 task.
