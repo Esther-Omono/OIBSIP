@@ -11,7 +11,7 @@ It performs basic mathematical functions like addition, subtraction, multiplicat
 A display screen shows the user's inputs and calculation results.
 
 #### 🔗 Link
-* [Live Demo Link](https://oibsip-orpin.vercel.app/)
+* [Live Demo Link](https://simple-calculator-esther-omono.vercel.app/)
 
 ### L2-T2-Tribute-Page
 This is the second Level 2 task.
