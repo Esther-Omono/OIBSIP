@@ -13,9 +13,18 @@ A display screen shows the user's inputs and calculation results.
 #### 🔗 Link
 * [Live Demo Link](https://oibsip-orpin.vercel.app/)
 
-### L2-T2-Tribute Page
+### L2-T2-Tribute-Page
 This is the second Level 2 task.
 It is a tribute page created using HTML for structure and CSS for styling.
+
+#### 🔗 Link
+* [Live Demo Link](https://oibsip2.vercel.app/)
+
+### L2-T3-To-Do-App
+This is the third Level 2 task.
+It is a to-do web app created using HTML for structure, CSS for styling, and Javascript for functionality.
+This project makes use of the localStorage property that allows JavaScript sites and apps to save key-value pairs in a web browser with no expiration date.
+This means that the data stored from our to-do app persists even after the user closes the browser or restarts the computer.
 
 #### 🔗 Link
 * [Live Demo Link](https://oibsip2.vercel.app/)
